@@ -1,0 +1,89 @@
+{
+    "relationships": [
+        {
+            "source": "Lee Worth Phipps",
+            "relation": "Parent",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Mary Edith Phipps",
+            "relation": "Parent",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Van Caudill",
+            "relation": "Spouse",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Paige Wayne Caudill",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Gloria Faith Almony",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Lorraine Hope Wilfong",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Diane Charity McGonigal",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Pamela Joy Eckman",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Irvin Ward Caudill",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Bradley Wade Caudill",
+            "relation": "Child",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Claudette Smith",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Melvin Phipps",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Kelsey Phipps",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "William Phipps",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Frances Jackson",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Betty Lindsey",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        },
+        {
+            "source": "Mary Jane Hagan",
+            "relation": "Sibling",
+            "target": "Joyce Lee Caudill"
+        }
+    ]
+}
